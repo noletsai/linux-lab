@@ -1,0 +1,5 @@
+這是檔案中的內容：
+apple
+banana
+apricot
+grape
