@@ -1,0 +1,4 @@
+Log demo 開始時間: Wed Jun 18 23:37:58 EDT 2025
+目前使用者: noletsai
+當前目錄: /Users/noletsai/linux-lab/scripts
+Log demo 結束時間: Wed Jun 18 23:37:59 EDT 2025
